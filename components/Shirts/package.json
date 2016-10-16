@@ -1,0 +1,6 @@
+{
+  "name": "Shirts",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Shirts.js"
+}
